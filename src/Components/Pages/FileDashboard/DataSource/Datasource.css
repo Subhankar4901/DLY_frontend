@@ -1,0 +1,37 @@
+.sidebar-flex-source {
+  height: 100vh;
+  background-color: #f5f9ff !important;
+}
+.file-grid-source {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  grid-gap: 2%;
+}
+.right-part-title {
+  font-size: 20px;
+  font-weight: 600;
+}
+.grid-datasource {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+.text-back {
+  font-size: 12px;
+  cursor: pointer;
+}
+.box-filedashboard {
+  background-color: #e2ebfc;
+  border-radius: 11px;
+}
+.datasource-title {
+  font-weight: 600;
+}
+.datasource-details {
+  font-size: 13px;
+  font-weight: 300;
+  color: rgb(109, 109, 109);
+}
+.bottom-btn {
+  color: rgb(19, 143, 160) !important;
+}

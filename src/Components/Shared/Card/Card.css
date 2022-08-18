@@ -1,0 +1,17 @@
+.card {
+  border-radius: 10px !important;
+  /* padding: 20px !important; */
+  width: 100% !important;
+  box-shadow: 0px 20px 27px rgba(0, 0, 0, 0.05);
+}
+
+.card-title {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.card-subtitle {
+  font-size: 12px;
+  color: #252f40;
+  font-weight: 400;
+}

@@ -1,0 +1,31 @@
+.right-part {
+  background-color: #e2ebfc;
+}
+.middle-part-template {
+  background-color: white;
+}
+.template {
+  font-size: 12px;
+  color: rgb(107, 107, 107);
+}
+.template-title {
+  font-size: 35px;
+  color: black;
+  font-weight: 800;
+}
+.company-overview1 {
+  font-size: 18px;
+  color: black;
+  font-weight: 700;
+  cursor: pointer;
+}
+.company-overview {
+  font-size: 18px;
+  color: rgb(82, 82, 82);
+  font-weight: 700;
+  cursor: pointer;
+}
+/* .tpopup {
+  max-width: 1350px !important;
+  position: relative;
+} */

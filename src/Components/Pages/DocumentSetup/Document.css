@@ -1,0 +1,15 @@
+.bottom-text-document {
+  padding: 0px;
+  font-weight: 300;
+  font-size: 14px;
+  color: rgb(99, 99, 99);
+}
+.center-part-document {
+  /* max-width: 70vw; */
+  margin-top: 2rem;
+  width: fit-content;
+  /* position: absolute;
+	top: 58%;
+	left: 50%;
+	transform: translate(-50%, -50%); */
+}

@@ -1,0 +1,6 @@
+.carousel-indicators button {
+	border-radius: 50%;
+	width: 12px !important;
+	height: 12px !important;
+	background-color: #01004e;
+}

@@ -1,0 +1,10 @@
+.d-box {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 0px;
+}
+
+.box-filedashboard1{
+	width: 20rem;
+	height: 16rem;
+}

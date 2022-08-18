@@ -1,0 +1,106 @@
+.carousel-indicators button {
+	border-radius: 50%;
+	width: 12px !important;
+	height: 12px !important;
+	background-color: #ffffff !important;
+}
+.carousel-indicators .active {
+	border-radius: 50%;
+	width: 12px !important;
+	height: 12px !important;
+	background-color: #01004e !important;
+}
+
+.center-part-login {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+input {
+	background-color: #f8f8f8 !important;
+	padding: 8px 12px !important;
+}
+.details {
+	font-size: 0.8rem;
+	font-weight: 500;
+	text-align: justify;
+	line-height: 21px;
+}
+.form-label {
+	font-size: 0.94rem;
+	font-weight: 600;
+	line-height: 11px;
+}
+.new-data {
+	display: grid;
+	grid-template-columns: 30% 40% 30%;
+	align-content: center;
+	align-items: center;
+}
+.new-data1 {
+	display: grid;
+	grid-template-columns: 25% 50% 25%;
+	align-content: center;
+	align-items: center;
+}
+.line {
+	height: 1px;
+	background-color: #01004e;
+}
+.line-register {
+	height: 1px;
+	background-color: #01004e;
+}
+.new-data-text {
+	font-size: 14px;
+}
+/* background from  */
+
+.left-part-from {
+	padding: 2.5rem;
+}
+.flex-from-part {
+	display: flex;
+	gap: 20px;
+}
+
+/* slider  */
+.title-carousoul {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 25px;
+	color: #092f93;
+}
+.paragrah-title {
+	font-size: 14px;
+	font-weight: 300;
+	color: #092f93;
+}
+.link-carousoul {
+	color: #092f93;
+	cursor: pointer;
+}
+.line-carousol {
+	width: 200px;
+	text-align: center;
+	height: 2px;
+	margin: 0 auto;
+	background-color: #092f93;
+}
+.btn-check :focus {
+	outline: none !important;
+}
+.form-control:focus {
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+.btn-group:focus {
+	outline: none !important;
+}
+.btn:focus {
+	outline: none;
+	box-shadow: none !important;
+}

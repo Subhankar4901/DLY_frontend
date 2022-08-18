@@ -1,0 +1,59 @@
+.customization {
+  display: grid;
+  grid-template-columns: 0.5fr 2fr;
+  grid-gap: 40px;
+}
+.customization-box {
+  background-color: #f5f8fe;
+  border-radius: 5px;
+}
+.presntation {
+  font-size: 22px;
+  font-weight: 500;
+  border-bottom: 1px solid black;
+  padding: 5px 0px;
+}
+.middle-part,
+.bottom-part-presentation {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+.left-middle-part,
+.right-middle-part {
+  color: rgb(156, 156, 156);
+}
+.heading-01,
+.cabin,
+.cabin-no {
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
+  /* border: 1px solid rgb(207, 207, 207); */
+}
+.choose-color-palette {
+  font-size: 13px;
+  /* identical to box height */
+  text-transform: capitalize;
+  color: #67748e;
+}
+.create-new-color {
+  font-size: 13px;
+  text-transform: capitalize;
+  color: #3b7ded;
+}
+.cursor {
+  cursor: pointer;
+}
+.border {
+  border: 1px solid rgb(207, 207, 207);
+  background-color: white;
+  border-radius: 5px;
+}
+.pagination-start {
+  font-size: 25px;
+  color: #3b7ded;
+}
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+  height: 40px !important;
+}

@@ -1,0 +1,60 @@
+.symantic-grid {
+  display: grid;
+  grid-template-columns: 20% 80%;
+}
+
+.modal-option-container {
+  background-color: #e5e5e5;
+  height: 60vh;
+  /* width: 75% !important; */
+  overflow: auto;
+}
+
+.modal-option-main-block {
+  background-color: white;
+  border-radius: 4px;
+}
+.modal-option-main-block:hover {
+  background-color: #3b7ded;
+  color: white;
+}
+
+.modal-option-block {
+  background-color: #04befe;
+  padding: 30px;
+  border-radius: 4px;
+}
+
+ul {
+  margin-left: -2rem !important;
+}
+
+ul li:first-child {
+  list-style: none;
+}
+
+.l2-c1-body {
+  font-size: 13px;
+  /* height: 50% !important; */
+  overflow: auto;
+}
+
+.l2-c3-body-box {
+  padding: 10px;
+  background-color: rgba(226, 235, 252, 0.3);
+  border-radius: 10px;
+}
+.l2-c3-body-box-title {
+  font-size: 11px;
+  font-weight: 400;
+  color: #6e798c;
+}
+.l2-c3-body-box-text {
+  font-size: 16px !important;
+  font-weight: 500;
+  color: #252f40;
+}
+
+.layout-container {
+  max-width: 1500px;
+}
